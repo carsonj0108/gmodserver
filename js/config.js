@@ -1,11 +1,11 @@
 
 /*URL for the server logo
 Leave it blank to use text instead*/
-var l_serverImage = "images/logo.png";
+var l_serverImage = "images/nvglife.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "iJonezi's RP";
+var l_serverName = "New Vision Gaming's Enhanced Roleplay";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -95,7 +95,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 10;
+var l_musicVolume = 15;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
@@ -105,7 +105,6 @@ var l_messages = [
 "Welcome to our server!",
 "Thanks for joining us!",
 "Did you know this server uses custom scripts and addons?",
-"iJonezi himself, welcomes you!",
 "Admins are here to help. Don't hesitate to ask questions!"
 ];
 
